@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -34,6 +34,9 @@ public class GameGrid : MonoBehaviour {
 
 
 		 //AGREGMOS ESTA LINEA POR GIT
+		 
+		 
+		 //agregamos est alinea de nuevo por que si
 		bool room = true;
 
 		switch (dir) 
